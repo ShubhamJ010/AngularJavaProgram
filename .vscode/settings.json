@@ -19,5 +19,6 @@
     "ProductApp/src/*.*": true,
     "assets": true
   },
-  "explorerExclude.backup": {}
+  "explorerExclude.backup": {},
+  "git.ignoreLimitWarning": true
 }
